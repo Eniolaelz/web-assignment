@@ -1,11 +1,11 @@
 body {
 
-    background: linear-gradient(to top, rgba(205, 27, 26, 0.4), rgba(205, 27, 26, 0.7)), url('../resources/gallery.jpg') top center;
+    background: linear-gradient(to top, rgba(205, 27, 26, 0.4), rgba(205, 27, 26, 0.7)), url('../resources/images/gallery.jpg') top center;
     background-size: 100% 100%;
 
 }
 
-.gallery-container {
+#gallery-container {
 
     display: flex;
     flex-direction: row;
@@ -31,6 +31,7 @@ body {
     color: grey;
     font-size: 1.25rem;
     padding: 0.25rem;
+    text-transform: capitalize;
 }
 
 .card-image {

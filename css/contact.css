@@ -1,6 +1,6 @@
 body {
 
-    background: linear-gradient(to top, rgba(205, 27, 26, 0.4), rgba(205, 27, 26, 0.7)), url('../resources/contact.jpg') top center;
+    background: linear-gradient(to top, rgba(205, 27, 26, 0.4), rgba(205, 27, 26, 0.7)), url('../resources/images/contact.jpg') top center;
     background-size: 100% 100%;
 
 }
@@ -14,7 +14,6 @@ body {
     justify-content: center;
     align-content: center;
     height: calc(100vh - 5rem);
-
 }
 
 input[type=text],
@@ -36,25 +35,40 @@ textarea {
 
 }
 
+
 input[type=submit] {
 
     background-color: white;
     padding: 5px;
-    border: 1px solid lightgray;
 }
 
 input[type=submit]:hover {
 
     background-color: lightgray;
     padding: 5px;
-    border: 1px solid lightgray;
 }
 
 .icons_container {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    animation: container 4s 2s infinite;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 0.25rem;
+}
 
+
+@keyframes container {
+    from {
+        border-color: rgba(255, 0, 0, 0.495);
+        box-shadow: rgba(122, 122, 143, 0.2) 0px 7px 29px 0px;
+    }
+
+    to {
+        border-color: rgba(0, 38, 255, 0.353);
+        box-shadow: rgba(122, 122, 143, 0.2) 0px 7px 29px 0px;
+    }
 }
 
 #facebook {
@@ -86,4 +100,27 @@ input[type=submit]:hover {
 #facebook {
     margin: 0px 5px;
     cursor: pointer;
+}
+
+.error-input {
+
+    border-color: red;
+}
+
+.success {
+    color: green;
+}
+
+.error {
+
+    color: red;
+}
+
+#info_label {
+
+    padding-left: 1rem;
+}
+
+#submit {
+    padding: 0.25rem 0.5rem;
 }

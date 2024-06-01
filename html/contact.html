@@ -12,32 +12,28 @@
 
     <div class="grid-container">
 
-        <nav class="header">
-            <a class="menu-item" href="./index.html">Home</a>
-            <a class="menu-item" href="./about.html">About</a>
-            <a class="menu-item" href="./gallery.html">Gallery</a>
-            <a class="menu-item" href="./contact.html">Contact us</a>
+        <nav class="header" id="header">
         </nav>
 
         <div class="body">
 
             <div class="contact-container">
                 <form>
-                    <label for="name">Name:</label><br>
-                    <input type="text" id="name" name="name" value="John"><br>
-                    <label for="phone">Phone:</label><br>
-                    <input type="number" id="phone" name="phone" value="0466767788"><br>
-                    <label for="message">Message:</label><br>
+                    <label for="name">Name*:</label><br>
+                    <input type="text" id="name" name="name" placeholder="John"><br>
+                    <label for="phone">Phone*:</label><br>
+                    <input type="number" id="phone" name="phone" placeholder="0466767788" min="0"><br>
+                    <label for="message">Message*:</label><br>
                     <textarea id="message" name="message" placeholder="Please enter your message"
                         value="message"></textarea><br>
-                    <input type="submit">
-                </form>
-                <div class = "icons_container">
+                    <input id="submit" type="button" value="Submit" onclick="onSubmit()">
 
-                    <i class="fa fa-linkedin"
-                        id="linkedin"></i>
-                    <i class="fa fa-facebook" id="facebook"></i>
-                    <i class="fa fa-instagram" id="instagram"></i>
+                    <label id="info_label"></label>
+                </form>
+                <div class="icons_container">
+                    <a id="linkedin" onclick="goToURLInNewtab('linkedin')"><i class="fa fa-linkedin"></i></a>
+                    <a id="facebook" onclick="goToURLInNewtab('facebook')"> <i class="fa fa-facebook"></i></a>
+                    <a id="instagram" onclick="goToURLInNewtab('instagram')"><i class="fa fa-instagram"></i></a>
 
                 </div>
 
@@ -48,5 +44,8 @@
     </div>
 
 </body>
+
+<script src="../js/menu.js"></script>
+<script src="../js/contact.js"></script>
 
 </html>
