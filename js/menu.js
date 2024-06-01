@@ -1,6 +1,6 @@
 const header= document.getElementById('header');
 
-const menuUrl = "http://127.0.0.1:5500/web-assignment-stehnanie/my-web-portal/resources/data/menu.json"
+const menuUrl = "http://127.0.0.1:5500/resources/data/menu.json"
 
 fetchMenu();
 

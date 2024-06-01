@@ -1,6 +1,6 @@
 const gallery = document.getElementById('gallery-container');
 
-const gallery_url = "http://127.0.0.1:5500/web-assignment-stehnanie/my-web-portal/resources/data/records.json"
+const gallery_url = "http://127.0.0.1:5500/resources/data/records.json"
 
 fetchGalleryData();
 

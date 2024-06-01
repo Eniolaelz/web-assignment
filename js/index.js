@@ -15,7 +15,7 @@ homeLabelElement.textContent = portalTitle;
 
 
 
-const quotesURL = "http://127.0.0.1:5500/web-assignment-stehnanie/my-web-portal/resources/data/quotes.json"
+const quotesURL = "http://127.0.0.1:5500/resources/data/quotes.json"
 
 
 setInterval(function () {
