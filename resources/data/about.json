@@ -1,22 +1,29 @@
 {
     "paragraphs": [
         {
-            "text": "LoremLorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis natus voluptates eos odit ab sunt cumque praesentium rem iusto delectus eligendi alias itaque fugit, temporibus accusamus ipsam aliquid sapiente expedita! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto necessitatibus accusantium id quidem! Magnam eos vitae pariatur facere quam doloribus perspiciatis dignissimos, sunt, officiis asperiores repudiandae voluptatum repellat consequuntur corporis."
+            "text": "Hello! I'm Stephanie, an Afrobeat music enthusiast and singer. My passion for Afrobeat music runs deep, and it's a significant part of who I am. From the moment I first heard its vibrant rhythms and infectious beats, I was hooked."
         },
         {
-            "text": "LoremLorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis natus voluptates eos odit ab sunt cumque praesentium rem iusto delectus eligendi alias itaque fugit, temporibus accusamus ipsam aliquid sapiente expedita! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto necessitatibus accusantium id quidem! Magnam eos vitae pariatur facere quam doloribus perspiciatis dignissimos, sunt, officiis asperiores repudiandae voluptatum repellat consequuntur corporis."
+            "text": "I may not be a musician in the traditional sense, but my love for singing and Afrobeat drives me to share this incredible genre with others. My voice is my instrument, and through it, I convey the joy, energy, and rich cultural heritage that Afrobeat embodies."
         },
         {
-            "text": "LoremLorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis natus voluptates eos odit ab sunt cumque praesentium rem iusto delectus eligendi alias itaque fugit, temporibus accusamus ipsam aliquid sapiente expedita! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto necessitatibus accusantium id quidem! Magnam eos vitae pariatur facere quam doloribus perspiciatis dignissimos, sunt, officiis asperiores repudiandae voluptatum repellat consequuntur corporis."
+            "text": "Over the years, I’ve immersed myself in the world of Afrobeat, drawing inspiration from both legendary artists and contemporary innovators. I aim to stay true to its roots while also bringing my unique interpretation to each performance. Singing Afrobeat allows me to connect with people on a deeper level, celebrating the music that brings us all together."
         },
         {
-            "text": "LoremLorem ipsum, dolor sit amet consectetur adipisicing elit. Omnis natus voluptates eos odit ab sunt cumque praesentium rem iusto delectus eligendi alias itaque fugit, temporibus accusamus ipsam aliquid sapiente expedita! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Architecto necessitatibus accusantium id quidem! Magnam eos vitae pariatur facere quam doloribus perspiciatis dignissimos, sunt, officiis asperiores repudiandae voluptatum repellat consequuntur corporis."
+            "text": "In addition to performing, I’m dedicated to promoting Afrobeat music, helping others discover its beauty and power. Whether it’s through live performances, collaborations, or sharing my favourite tracks and artists, I strive to spread the vibrant spirit of Afrobeat far and wide."
+        },
+        {
+            "text": "Every summer, I eagerly anticipate my journey to Nigeria, where I visit traditional places where Afrobeat songs are celebrated. I've been privileged to be part of the choir, and during events like Christmas carols and Easter celebrations, we come together to sing, creating unforgettable musical moments."
+        },
+        {
+            "text": "Join me on this musical journey as we celebrate the dynamic and ever-evolving world of Afrobeat. Let’s groove to the rhythms that connect us all!"
         }
     ],
     "tags": [
         "music",
         "passion",
-        "determination"
+        "determination",
+        "Afrobeat"
     ],
     "image": "../resources/images/about.jpg"
 }
