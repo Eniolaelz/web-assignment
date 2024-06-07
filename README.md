@@ -50,3 +50,27 @@ Maintain a clear structure on GitHub.
 Include a README file that briefly describes each topic and where it is applied in the portfolio.
 Include a short piece of code for each topic, demonstrating its application.
 Demonstrate each part within the context of a website.
+
+
+My resources:
+
+Watched some youtube vidoes on how to make a portfolio " (41) How To Make Portfolio Website Using Html & Css | Step-by-Step Tutorial | PraRoz Tutorial - YouTube
+
+How To Make A Portfolio Website Using HTML CSS JS | Complete Responsive Website Design (youtube.com)
+
+Personal Portfolio Website Using html and css only | How to create Personal Website #newtoyou (youtube.com)
+
+I also did google searches and clarified my doubts on stackoverflow
+https://stackoverflow.com/questions/34559918/spread-syntax-es6
+
+
+I also watched vidoes on advanced javascript 
+https://www.youtube.com/watch?v=8hKo9Xa4cXk
+
+
+
+ W3SCHOOLS CSS
+I used as a guide.
+https://www.w3schools.com/html/
+https://www.w3schools.com/Css/
+https://www.w3schools.com/js/
