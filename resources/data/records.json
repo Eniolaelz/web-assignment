@@ -2,7 +2,7 @@
     {
         "image": "../resources/images/1.jpg",
         "title": "concert",
-        "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente placeat facere distinctio,quis voluptatum incidunt ipsa esse quo beatae lorem"
+        "text": "Each concert is an exhilarating showcase of our collective talent and hard work, energized by the live audience."
     },
     {
         "image": "../resources/images/2.jpg",
@@ -11,11 +11,11 @@
     {
         "image": "../resources/images/3.jpg",
         "title": "instrumental",
-        "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente placeat facere distinctio,quis voluptatum incidunt ipsa esse quo beatae lorem"
+        "text": "Mastering my instrument has been a journey of discipline and passion, where I’ve learned that each note I play contributes to a greater musical dialogue"
     },
     {
         "image": "../resources/images/4.jpg",
         "title": "musical orchestra",
-        "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente placeat facere distinctio,quis voluptatum incidunt ipsa esse quo beatae lorem"
+        "text": "As an integral member of an esteemed orchestra, I’ve honed my musical skills and learned the importance of teamwork and discipline. Each performance reflects our collective dedication and pursuit of musical excellence."
     }
 ]
